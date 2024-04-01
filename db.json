@@ -1,4 +1,4 @@
-[
+{
   "products":
   [
   
@@ -203,4 +203,5 @@
   { "id": "0199", "name": "Iceberg Lettuce", "price": 2 },
   { "id": "0200", "name": "Romaine Lettuce", "price": 2 }
   ]
-]
+}
+
