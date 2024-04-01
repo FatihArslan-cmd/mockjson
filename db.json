@@ -1,7 +1,6 @@
 {
   "products":
   [
-  
   { "id": "0001", "name": "Bread", "price": 2.5 },
   { "id": "0002", "name": "Milk", "price": 3 },
   { "id": "0003", "name": "Eggs", "price": 4 },
@@ -421,7 +420,7 @@
     {"id": "0417", "name": "Thai Green Curry", "price": 20},
     {"id": "0418", "name": "Japanese Sushi Platter", "price": 25},
     {"id": "0419", "name": "Brazilian Rodizio", "price": 30},
-    {"id": "0420", "name": "Argentinian Parrillada", "price": 35}
+    {"id": "0420", "name": "Argentinian Parrillada", "price": 35},
     {"id": "0421", "name": "American BBQ Sauce", "price": 10},
     {"id": "0422", "name": "Belgian Waffle Mix", "price": 8},
     {"id": "0423", "name": "Canadian Maple Bacon", "price": 12},
