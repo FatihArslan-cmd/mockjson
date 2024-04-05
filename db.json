@@ -92,7 +92,7 @@
     "name": "Potato",
     "price": 2,
     "image": "https://pixabay.com/tr/photos/taze-potato-g%C4%B1da-nature-sa%C4%9Fl%C4%B1kl%C4%B1-4868198/"
-  }
+  },
   { "id": "0017", "name": "Onion", "price": 1.25 },
   { "id": "0018", "name": "Garlic", "price": 0.75 },
   { "id": "0019", "name": "Pasta", "price": 2.5 },
