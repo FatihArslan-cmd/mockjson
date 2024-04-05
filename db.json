@@ -2,97 +2,22 @@
   "products":
   [
   
-  { "id": "0001", "name": "Bread", "price": 2.5,"image":"https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
-  {
-    "id": "0002",
-    "name": "Milk",
-    "price": 3,
-    "image": "https://cdn.pixabay.com/photo/2023/05/30/16/50/milk-8029140_640.png"
-  },
-  {
-    "id": "0003",
-    "name": "Eggs",
-    "price": 4,
-    "image": "https://cdn.pixabay.com/photo/2020/03/31/18/03/food-4988769_640.jpg"
-  },
-  {
-    "id": "0004",
-    "name": "Cheese",
-    "price": 5,
-    "image": "https://www.istockphoto.com/photo/greek-feta-cheese-block-gm960872064-262383180?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Fcheese%2F&utm_term=cheese"
-  },
-  {
-    "id": "0005",
-    "name": "Butter",
-    "price": 2,
-    "image": "https://media.istockphoto.com/id/878180648/tr/foto%C4%9Fraf/desi-saf-ghee-veya-cam-veya-bak%C4%B1r-kap-ka%C5%9F%C4%B1k-se%C3%A7ici-odak-ile-eritilmi%C5%9F-tereya%C4%9F%C4%B1.jpg?s=612x612&w=0&k=20&c=UUqwxkwUNUu95o73i8L5hk2fdbwxZ6lt66azFPBus8c="
-  },
-  {
-    "id": "0006",
-    "name": "Yogurt",
-    "price": 2.75,
-    "image": "https://www.istockphoto.com/tr/foto%C4%9Fraf/rustik-siyah-masada-kase-yo%C4%9Furt-d%C3%BCz-do%C4%9Fal-organik-yo%C4%9Furt-foto%C4%9Fraf%C4%B1-yak%C4%B1n-%C3%A7ekim-gm1008860374-272071566"
-  },
-  {
-    "id": "0007",
-    "name": "Apple",
-    "price": 1,
-    "image": "https://www.istockphoto.com/photo/red-apple-gm495878092-78240015?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Fapple%2F&utm_term=apple"
-  },
-  {
-    "id": "0008",
-    "name": "Banana",
-    "price": 1.5,
-    "image": "https://cdn.pixabay.com/photo/2020/05/06/14/56/graphic-5137894_640.png"
-  },
-  {
-    "id": "0009",
-    "name": "Orange",
-    "price": 1.25,
-    "image": "https://cdn.pixabay.com/photo/2020/04/24/19/04/orange-5088300_640.jpg"
-  },
-  {
-    "id": "0010",
-    "name": "Grapes",
-    "price": 3.5,
-    "image": "https://www.istockphoto.com/photo/fresh-dark-red-grapes-at-market-place-gm93285194-4087606?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Fgrapes%2F&utm_term=grapes"
-  },
-  {
-    "id": "0011",
-    "name": "Strawberry",
-    "price": 4.25,
-    "image": "https://www.istockphoto.com/photo/strawberries-isolated-strawberry-slice-and-whole-berry-isolate-two-strawberries-on-gm1317775279-405107097?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Fstrawberry%2F&utm_term=strawberry"
-  },
-  {
-    "id": "0012",
-    "name": "Lettuce",
-    "price": 2,
-    "image": "https://www.istockphoto.com/photo/salad-head-isolated-gm1256707256-368056105?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Flettuce%2F&utm_term=lettuce"
-  },
-  {
-    "id": "0013",
-    "name": "Tomato",
-    "price": 1.75,
-    "image": "https://www.istockphoto.com/photo/five-tomatoes-gm1363734883-435181262?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Ftomato%2F&utm_term=tomato"
-  },
-  {
-    "id": "0014",
-    "name": "Cucumber",
-    "price": 1.5,
-    "image": "https://www.istockphoto.com/photo/fresh-cucumber-on-the-wooden-table-gm492532141-40184816?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Fcucumber%2F&utm_term=cucumber"
-  },
-  {
-    "id": "0015",
-    "name": "Carrot",
-    "price": 1,
-    "image": "https://www.istockphoto.com/photo/fresh-carrots-isolated-on-white-background-gm1461328272-495317537?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Ftr%2Fimages%2Fsearch%2Fcarrot%2F&utm_term=carrot"
-  },
-  {
-    "id": "0016",
-    "name": "Potato",
-    "price": 2,
-    "image": "https://pixabay.com/tr/photos/taze-potato-g%C4%B1da-nature-sa%C4%9Fl%C4%B1kl%C4%B1-4868198/"
-  },
+  { "id": "0001", "name": "Bread", "price": 2.5, "image":"https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+  { "id": "0002", "name": "Milk", "price": 3 },
+  { "id": "0003", "name": "Eggs", "price": 4 },
+  { "id": "0004", "name": "Cheese", "price": 5 },
+  { "id": "0005", "name": "Butter", "price": 2 },
+  { "id": "0006", "name": "Yogurt", "price": 2.75 },
+  { "id": "0007", "name": "Apple", "price": 1 },
+  { "id": "0008", "name": "Banana", "price": 1.5 },
+  { "id": "0009", "name": "Orange", "price": 1.25 },
+  { "id": "0010", "name": "Grapes", "price": 3.5 },
+  { "id": "0011", "name": "Strawberry", "price": 4.25 },
+  { "id": "0012", "name": "Lettuce", "price": 2 },
+  { "id": "0013", "name": "Tomato", "price": 1.75 },
+  { "id": "0014", "name": "Cucumber", "price": 1.5 },
+  { "id": "0015", "name": "Carrot", "price": 1 },
+  { "id": "0016", "name": "Potato", "price": 2 },
   { "id": "0017", "name": "Onion", "price": 1.25 },
   { "id": "0018", "name": "Garlic", "price": 0.75 },
   { "id": "0019", "name": "Pasta", "price": 2.5 },
