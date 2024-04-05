@@ -2,7 +2,7 @@
   "products":
   [
   
-  { "id": "0001", "name": "Bread", "price": 2.5 },
+  { "id": "0001", "name": "Bread", "price": 2.5,"image":"https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
   { "id": "0002", "name": "Milk", "price": 3 },
   { "id": "0003", "name": "Eggs", "price": 4 },
   { "id": "0004", "name": "Cheese", "price": 5 },
