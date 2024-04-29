@@ -1,7 +1,7 @@
 {
   "products":
   [
-   { "id": "0001", "name": "Plastic Bag", "price": 0.25, "kdv": 10 },
+   { "id": "0001", "name": "Plastic Bag", "price": 0.25, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3eYBHIkgM1B7zU-sIvG2r6RUugkqGcm46yg&s", "kdv": 10 },
     { "id": "0002", "name": "Milk", "price": 3, "image": "https://cdn.pixabay.com/photo/2023/05/30/16/50/milk-8029140_640.png", "kdv": 10 },
     { "id": "0003", "name": "Eggs", "price": 4, "image": "https://cdn.pixabay.com/photo/2020/03/31/18/03/food-4988769_640.jpg", "kdv": 10 },
     { "id": "0004", "name": "Cheese", "price": 5, "image": "https://media.istockphoto.com/id/960872718/tr/foto%C4%9Fraf/yunan-beyaz-peynir-blok.jpg?s=612x612&w=0&k=20&c=yAoJTzIA0VkWaKtkFGMttyK0as902SmoTn-yvdU4284=", "kdv": 10 },
