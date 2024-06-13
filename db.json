@@ -1090,6 +1090,7 @@
   { "id": "1087", "name": "Archery Bowfishing Bow Mount", "price": 25, "kdv": 10 },
   { "id": "1088", "name": "Archery Bowfishing Arrow Shaft Insert", "price": 10, "kdv": 10 },
   { "id": "1089", "name": "Archery Bowfishing Bow Adapter", "price": 20, "kdv": 10 },
-  { "id": "1090", "name": "Archery Bowfishing Reel Seat Adapter", "price": 10, "kdv": 10 }
+  { "id": "1090", "name": "Archery Bowfishing Reel Seat Adapter", "price": 10, "kdv": 10 },
+  { "id": "8720689013949", "name": "Philips OneBlade", "price": 50, "kdv": 10,"image": "https://hizliresim.com/icrtsrq"}
   ]
 }
