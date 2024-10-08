@@ -80,7 +80,7 @@
     { "id": "0077", "name": "Olive Oil", "price": 3.5, "kdv": 10 },
     { "id": "0078", "name": "Avocado Oil", "price": 4.5, "kdv": 10 },
     { "id": "0079", "name": "Grapeseed Oil", "price": 2.5, "kdv": 10 },
-    { "id": "0080", "name": "Flaxseed Oil", "price": 3.5, "kdv": 10 },
+    { "id": "0080", "name": "Flaxsed Oil", "price": 3.5, "kdv": 10 },
     { "id": "0081", "name": "Peanut Oil", "price": 2.5, "kdv": 10 },
     { "id": "0082", "name": "Sunflower Oil", "price": 3.5, "kdv": 10 },
     { "id": "0083", "name": "Rapeseed Oil", "price": 2.5, "kdv": 10 },
